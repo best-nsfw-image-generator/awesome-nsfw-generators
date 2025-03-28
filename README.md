@@ -7,7 +7,7 @@
 - **Key Features:** Text-to-image, image-to-image, high resolution up to 8K, optimized for realistic anatomy
 - **Pros:** High-quality output, specific optimizations for female anatomy, versatile styles
 - **Cons:** Potentially expensive for high-resolution images, limited information on free trials
-- **Rating:** 4.6/5
+- **Rating:** 4.8/5
 
 ## 2. [HotGens AI](https://hotgens.com/)
 ![HotGens Image](https://hotgens.com/_next/image?url=%2Fimages%2Fhome%2Fstyles-1.webp&w=920&q=100)
